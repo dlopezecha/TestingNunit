@@ -1,0 +1,6 @@
+D:\Proyectos Visual\TestingNunit\OperMatFibonacci\bin\Debug\OperMatFibonacci.dll
+D:\Proyectos Visual\TestingNunit\OperMatFibonacci\bin\Debug\OperMatFibonacci.pdb
+D:\Proyectos Visual\TestingNunit\OperMatFibonacci\obj\Debug\OperMatFibonacci.csproj.AssemblyReference.cache
+D:\Proyectos Visual\TestingNunit\OperMatFibonacci\obj\Debug\OperMatFibonacci.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual\TestingNunit\OperMatFibonacci\obj\Debug\OperMatFibonacci.dll
+D:\Proyectos Visual\TestingNunit\OperMatFibonacci\obj\Debug\OperMatFibonacci.pdb
