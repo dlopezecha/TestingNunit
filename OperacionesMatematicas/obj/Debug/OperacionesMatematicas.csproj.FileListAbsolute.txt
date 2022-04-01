@@ -3,8 +3,3 @@ D:\Proyectos Visual\TestingNunit\OperMatFibonacci\bin\Debug\OperacionesMatematic
 D:\Proyectos Visual\TestingNunit\OperMatFibonacci\bin\Debug\OperacionesMatematicas.pdb
 D:\Proyectos Visual\TestingNunit\OperMatFibonacci\obj\Debug\OperacionesMatematicas.dll
 D:\Proyectos Visual\TestingNunit\OperMatFibonacci\obj\Debug\OperacionesMatematicas.pdb
-D:\Proyectos Visual\TestingNunit\OperacionesMatematicas\bin\Debug\OperacionesMatematicas.dll
-D:\Proyectos Visual\TestingNunit\OperacionesMatematicas\bin\Debug\OperacionesMatematicas.pdb
-D:\Proyectos Visual\TestingNunit\OperacionesMatematicas\obj\Debug\OperacionesMatematicas.csproj.CoreCompileInputs.cache
-D:\Proyectos Visual\TestingNunit\OperacionesMatematicas\obj\Debug\OperacionesMatematicas.dll
-D:\Proyectos Visual\TestingNunit\OperacionesMatematicas\obj\Debug\OperacionesMatematicas.pdb
