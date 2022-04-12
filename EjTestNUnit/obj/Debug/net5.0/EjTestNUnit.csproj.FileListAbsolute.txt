@@ -1,0 +1,16 @@
+D:\Programacion\C#\TestingNunit\EjTestNUnit\bin\Debug\net5.0\EjTestNUnit.exe
+D:\Programacion\C#\TestingNunit\EjTestNUnit\bin\Debug\net5.0\EjTestNUnit.deps.json
+D:\Programacion\C#\TestingNunit\EjTestNUnit\bin\Debug\net5.0\EjTestNUnit.runtimeconfig.json
+D:\Programacion\C#\TestingNunit\EjTestNUnit\bin\Debug\net5.0\EjTestNUnit.runtimeconfig.dev.json
+D:\Programacion\C#\TestingNunit\EjTestNUnit\bin\Debug\net5.0\EjTestNUnit.dll
+D:\Programacion\C#\TestingNunit\EjTestNUnit\bin\Debug\net5.0\ref\EjTestNUnit.dll
+D:\Programacion\C#\TestingNunit\EjTestNUnit\bin\Debug\net5.0\EjTestNUnit.pdb
+D:\Programacion\C#\TestingNunit\EjTestNUnit\obj\Debug\net5.0\EjTestNUnit.csproj.AssemblyReference.cache
+D:\Programacion\C#\TestingNunit\EjTestNUnit\obj\Debug\net5.0\EjTestNUnit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\C#\TestingNunit\EjTestNUnit\obj\Debug\net5.0\EjTestNUnit.AssemblyInfoInputs.cache
+D:\Programacion\C#\TestingNunit\EjTestNUnit\obj\Debug\net5.0\EjTestNUnit.AssemblyInfo.cs
+D:\Programacion\C#\TestingNunit\EjTestNUnit\obj\Debug\net5.0\EjTestNUnit.csproj.CoreCompileInputs.cache
+D:\Programacion\C#\TestingNunit\EjTestNUnit\obj\Debug\net5.0\EjTestNUnit.dll
+D:\Programacion\C#\TestingNunit\EjTestNUnit\obj\Debug\net5.0\ref\EjTestNUnit.dll
+D:\Programacion\C#\TestingNunit\EjTestNUnit\obj\Debug\net5.0\EjTestNUnit.pdb
+D:\Programacion\C#\TestingNunit\EjTestNUnit\obj\Debug\net5.0\EjTestNUnit.genruntimeconfig.cache

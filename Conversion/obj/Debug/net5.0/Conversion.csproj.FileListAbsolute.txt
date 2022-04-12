@@ -1,0 +1,16 @@
+D:\Programacion\C#\TestingNunit\Conversion\bin\Debug\net5.0\Conversion.exe
+D:\Programacion\C#\TestingNunit\Conversion\bin\Debug\net5.0\Conversion.deps.json
+D:\Programacion\C#\TestingNunit\Conversion\bin\Debug\net5.0\Conversion.runtimeconfig.json
+D:\Programacion\C#\TestingNunit\Conversion\bin\Debug\net5.0\Conversion.runtimeconfig.dev.json
+D:\Programacion\C#\TestingNunit\Conversion\bin\Debug\net5.0\Conversion.dll
+D:\Programacion\C#\TestingNunit\Conversion\bin\Debug\net5.0\ref\Conversion.dll
+D:\Programacion\C#\TestingNunit\Conversion\bin\Debug\net5.0\Conversion.pdb
+D:\Programacion\C#\TestingNunit\Conversion\obj\Debug\net5.0\Conversion.csproj.AssemblyReference.cache
+D:\Programacion\C#\TestingNunit\Conversion\obj\Debug\net5.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\C#\TestingNunit\Conversion\obj\Debug\net5.0\Conversion.AssemblyInfoInputs.cache
+D:\Programacion\C#\TestingNunit\Conversion\obj\Debug\net5.0\Conversion.AssemblyInfo.cs
+D:\Programacion\C#\TestingNunit\Conversion\obj\Debug\net5.0\Conversion.csproj.CoreCompileInputs.cache
+D:\Programacion\C#\TestingNunit\Conversion\obj\Debug\net5.0\Conversion.dll
+D:\Programacion\C#\TestingNunit\Conversion\obj\Debug\net5.0\ref\Conversion.dll
+D:\Programacion\C#\TestingNunit\Conversion\obj\Debug\net5.0\Conversion.pdb
+D:\Programacion\C#\TestingNunit\Conversion\obj\Debug\net5.0\Conversion.genruntimeconfig.cache
